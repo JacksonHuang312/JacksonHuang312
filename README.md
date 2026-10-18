@@ -5,6 +5,6 @@ JacksonHuang312@github
 school   : University of Waterloo
 program  : nanotechnology engineer
 status   : looking for winter/spring 2027 internships
-projects : wip 😅
-exp.     : wip 🥹
+projects : wip (ಥ_ಥ)
+exp.     : wip (╥﹏╥)
 ```
